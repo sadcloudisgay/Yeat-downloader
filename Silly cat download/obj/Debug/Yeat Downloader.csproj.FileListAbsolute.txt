@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Silly cat download\Silly cat download\bin\Debug\Silly cat download.exe.config
+C:\Users\USER\source\repos\Silly cat download\Silly cat download\bin\Debug\Silly cat download.exe
+C:\Users\USER\source\repos\Silly cat download\Silly cat download\bin\Debug\Silly cat download.pdb
+C:\Users\USER\source\repos\Silly cat download\Silly cat download\obj\Debug\Yeat Downloader.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Silly cat download\Silly cat download\obj\Debug\Yeat Downloader.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Silly cat download\Silly cat download\obj\Debug\Silly cat download.exe
+C:\Users\USER\source\repos\Silly cat download\Silly cat download\obj\Debug\Silly cat download.pdb
