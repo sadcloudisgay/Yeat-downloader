@@ -1,4 +1,9 @@
-# Yeat-downloader
-Lets you easily download every Yeat song out there
+# What is this?
+Lets you easily download every Yeat song out there.
 
-# Note : I will be updating this every time a new song releases
+# Important note
+I will be updating this every time a new song releases.
+
+DM me on Discord if it's missing any song.
+
+astral1337
